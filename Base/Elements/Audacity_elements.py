@@ -11,5 +11,6 @@ class Inputs:
     START_TIME_TO_SELECT = 2 #mention time to start the selection tool
     END_TIME_TO_SELECT = 15 #time to end the selection tool
     FILE_TO_SAVE_RMS = r"C:\Users\vlab\Desktop\final_Framework\final_Framework\Base\utils\Screenshots\AUDIO_SS"
+    LOG_PATH = r"Base\utils\Logs\AUDACITY_logs/audacity.log"
     SAVE_PROJECT = "sri"
 
