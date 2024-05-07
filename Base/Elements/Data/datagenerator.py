@@ -2,7 +2,7 @@ import json
 import random
 import string
 import os
-os.path.dirname(os.path.abspath(r"Base\Elements\Data\datagenerator.py"))
+#os.path.dirname(os.path.abspath(r"Base\Elements\Data\datagenerator.py"))
 
 
 class RandomPersonGenerator:
